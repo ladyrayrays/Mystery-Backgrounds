@@ -35,6 +35,7 @@ Files Assocatied with Side Projects:</p>
 
 <h3>Main Menu</h3>
 ![alt text](https://github.com/ladyrayrays/Mystery-Backgrounds/blob/main/MainMenu.png "Main Menu")
+<img src="MainMenu.png"></img>
 <h3>Rain</h3>
 <h3>Bouncing Balls</h3>
 <h3>DVD</h3>
