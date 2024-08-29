@@ -34,7 +34,7 @@ Files Assocatied with Side Projects:</p>
 <p>There is no exit button for the rain background, so you have to nmanually close the java exe that is created.</p>
 
 <h3>Main Menu</h3>
-![alt text](https://github.com/ladyrayrays/Mystery-Backgrounds/blob/main/MainMenu.png)
+![alt text](https://github.com/ladyrayrays/Mystery-Backgrounds/blob/main/MainMenu.png "Main Menu")
 <h3>Rain</h3>
 <h3>Bouncing Balls</h3>
 <h3>DVD</h3>
